@@ -1,0 +1,9 @@
+{
+    "name": "@scope/common",
+    "type": "module",
+    "version": "0.1.0",
+    "exports": {
+      "./models": "./src/main.ts"
+    }
+  }
+  
