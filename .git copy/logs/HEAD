@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 e06d7f532311d40e077c2600cbb27f0379caf618 Noah Smith <noahsmith@Noahs-MacBook-Pro-2.local> 1729725540 -0400	clone: from https://github.com/njssandbox/vibe.git
-e06d7f532311d40e077c2600cbb27f0379caf618 ffb0712399211668a76fe74324d3cbdb6d6808b0 Noah Smith <noahsmith@Noahs-MacBook-Pro-2.local> 1729736677 -0400	commit: read me updated
-ffb0712399211668a76fe74324d3cbdb6d6808b0 c6c0c38312901f6d34bbb9c85397f1cc2d5f26d6 Noah Smith <noahsmith@Noahs-MacBook-Pro-2.local> 1729741731 -0400	commit: monorepo structure with dummy data
-c6c0c38312901f6d34bbb9c85397f1cc2d5f26d6 61ad0427205af84f6e3436e5210aa80ed6a4462e Noah Smith <noahsmith@Noahs-MacBook-Pro-2.local> 1729822371 -0400	commit: monorepo
-61ad0427205af84f6e3436e5210aa80ed6a4462e f9b4dcf330fbd6d541f2f9607091a931bbc9d3c9 Noah Smith <noahsmith@Noahs-MacBook-Pro-2.local> 1729823321 -0400	commit: tailwind
-f9b4dcf330fbd6d541f2f9607091a931bbc9d3c9 8e8537fd1c3caa31cdb10b6ee3b61ec2693f5574 Noah Smith <noahsmith@Noahs-MacBook-Pro-2.local> 1729823579 -0400	commit: daisy ui removal
